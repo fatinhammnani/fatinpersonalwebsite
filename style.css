@@ -295,19 +295,19 @@ header .follow a:hover{
 }
 
 .About .row-2 .skills .progress:nth-child(1) .bar span{
-    width: 95%;
+    width: 80%;
 }
 
 .About .row-2 .skills .progress:nth-child(2) .bar span{
-    width: 85%;
+    width: 70%;
 }
 
 .About .row-2 .skills .progress:nth-child(3) .bar span{
-    width: 45%;
+    width: 85%;
 }
 
 .About .row-2 .skills .progress:nth-child(4) .bar span{
-    width: 55%;
+    width: 90%;
 }
 
 .About .row-2 .box-container{
